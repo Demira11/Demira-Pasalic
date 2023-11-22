@@ -4,7 +4,7 @@
 
 I am Demira from Brooklyn, New York and I really enjoy learning languages and frameworks like React and React Native as well as work in WordPress. I also enjoy wireframe-ing in Canva :) 
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / 
 
 - 🔭 I’m currently working on this page. My portfolio, a pasta company webpage and a café website for a customer. 
 - 🌱 I’m currently learning Backend 
