@@ -10,9 +10,9 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning Backend 
 - 📫 How to reach me:
 - demira.codes@gmail.com
-- https://github.com/Demira11
+- https://github.com/Demira11 github GitHub
 - https://www.linkedin.com/in/demirapasalic/
   
 
-👩‍💻 
+
 
