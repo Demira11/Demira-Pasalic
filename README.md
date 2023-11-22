@@ -8,7 +8,11 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page, my portfolio, a webapge for a company that makes pasta (yummm) and a webpage for a cozy café. 
 - 🌱 I’m currently learning Backend 
-- 📫 How to reach me: demira.codes@gmail.com 
+- 📫 How to reach me:
+- demira.codes@gmail.com
+- https://github.com/Demira11
+- https://www.linkedin.com/in/demirapasalic/
+  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Demira11)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/demirapasalic//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCKVc3pPGBh_ghILmrQtAQLg)  
