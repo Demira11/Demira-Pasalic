@@ -6,8 +6,8 @@ I am Demira from Brooklyn, New York and I really enjoy learning languages and fr
 
 Skills: REACT / JS / HTML / CSS / 
 
-- 🔭 I’m currently working on this page. My portfolio, a pasta company webpage and a café website for a customer. 
-- 🌱 I’m currently learning Backend 
+- 🔭 I’m currently working on my portfolio, a pasta company webpage and a café website for customers. 
+- 🌱 I’m actively learning back-end 
 - 📫 How to reach me:
 - 🌐 demira.codes@gmail.com
 - 🔎 https://www.linkedin.com/in/demirapasalic/ 👩‍💻
