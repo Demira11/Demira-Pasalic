@@ -5,9 +5,10 @@
 ### Hi there 👋 my name is Demira
 #### I'm a Software Developer
 
-I am Demira from Brooklyn, New York and I really enjoy learning languages and frameworks like React. I also enjoy wireframe-ing in Canva :) My goal for next year is to get better at back-end :D
+I am based in Brooklyn, New York and I really enjoy learning languages and frameworks like React. 
+I also enjoy wireframe-ing in Canva :) My goal for next year is to get better at back-end 🤓
 
-Skills: REACT / JS / HTML / CSS / 
+Skills: REACT / JS / HTML / CSS / Python
 
 - 🔭 I’m currently working on my portfolio, a pasta company webpage and a café website for customers. 
 - 🌱 I’m actively learning back-end 
