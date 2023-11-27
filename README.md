@@ -2,7 +2,7 @@
 ![Software Developer](https://media.licdn.com/dms/image/D4E16AQFew-WL3dyrNw/profile-displaybackgroundimage-shrink_350_1400/0/1698250370028?e=1706140800&v=beta&t=l_iee3cQtxxJFJ7ILa8bsboRPBRuWbeAuiEpQpM1DNk)
 
 
-### Hi there 👋 my name is Demira
+### Hi there 🤘🏻 my name is Demira
 #### I'm a Software Developer
 
 I am based in Brooklyn, New York and I really enjoy working on projects from scratch and seeing ideas turn into relity and evolve over time. 
