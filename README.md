@@ -8,7 +8,7 @@ I also enjoy wireframe-ing in Canva 𑁍
 
 Skills: REACT / JS / HTML / CSS / Python3, Heroku, SQL
 
-- 🔭 I’m currently working on my portfolio, a pasta company webpage, and a café website for customers. 
+- 🔭 I’m currently working on a pasta company webpage, and a café website for customers. 
 - 📫 How to reach me:
 - 🌐 demira.codes@gmail.com
 - 🔎 https://www.linkedin.com/in/demirapasalic/   ✓ 
