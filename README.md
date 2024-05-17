@@ -4,7 +4,7 @@
 ### Hi there 🤘🏻 my name is Demira
 #### I'm a Front-End Software Developer,
 Based in Brooklyn, New York. 
-I enjoy working on projects from scratch and seeing ideas turn into reality and evolve. 
+I enjoy working on projects from scratch and seeing ideas turn into reality and evolve. 🧷
 I also enjoy wireframe-ing in Canva 𑁍 
 
 Skills: REACT / JS / HTML / CSS / Python3, Heroku, SQL
