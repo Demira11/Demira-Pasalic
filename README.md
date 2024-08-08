@@ -1,7 +1,7 @@
 
 
 
-### Hi there  my name is Demira
+### Hi there my name is Demira
 #### I'm a Front-End Software Developer,
 Based in Brooklyn, New York. 
 I enjoy working on projects from scratch and seeing ideas become reality and evolve. 
